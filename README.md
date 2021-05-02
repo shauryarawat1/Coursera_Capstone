@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This notebook is for the Coursera IBM Data Science Capstone Project Course.
+This repository has been created for the Applied Data Science Capstone Project course provided by IBM through Coursera. The grades are provided on the basis of progress and the results. The project makes use of Rest APIs in order to retrieve the data about the different venues in a particular neighborhood. This project will help the user in selecting the best neighborhood based on the desired factors be it house prices, school quality, access to amenities and so on.
